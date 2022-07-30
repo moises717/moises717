@@ -1,4 +1,4 @@
-## Sobre mí :Book
+## Sobre mí :ledger:
 
 Tengo 24 años, actualmente me encuentro cursando la carrera de ingeniería en sistemas, me gustan los retos y aprender cosas nuevas cada dia, lo cual me ah llevado a conocer entornos de desarrollo como **frontend** y **backend**.
 
