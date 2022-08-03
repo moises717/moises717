@@ -1,6 +1,6 @@
 ## Sobre mí :ledger:
 
-Actualmente me encuentro cursando la carrera de ingeniería en sistemas, desde hace 3 años he dedicado mi tiempo libre a aprender programación por cuenta propia, siempre me ha apasionado crear cosas y ponerme retos cada dia, lo cual me ah llevado a conocer entornos de desarrollo como **frontend** y **backend**.
+Actualmente me encuentro cursando la carrera de ingeniería en sistemas, desde hace 3 años he dedicado mi tiempo libre a aprender programación por cuenta propia, siempre me ha apasionado crear cosas y ponerme retos cada dia, esto me ah llevado a conocer entornos de desarrollo como **frontend** y **backend**.
 
 ## Mi historiá :memo:
 
