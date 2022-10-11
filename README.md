@@ -11,5 +11,3 @@ Hace 3 años hice una búsqueda en internet, ¿Como se hace una pagina web? y un
 ## Github stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moises717&show_icons=true&locale=en&layout=compact" alt="moises717" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=moises717&" alt="moises717" /></p>
