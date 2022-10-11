@@ -1,6 +1,6 @@
 ## Sobre mí :ledger:
 
-<h3 align="center">Soy un apasionado desarrollador frontend y backend </h3>
+<h3>Soy un apasionado desarrollador frontend y backend </h3>
 
 :earth_americas: de Nicaragua
 
