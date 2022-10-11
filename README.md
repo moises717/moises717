@@ -1,9 +1,5 @@
 ## Sobre mí :ledger:
 
-<p>Soy un apasionado desarrollador frontend y backend </p>
-
-:earth_americas: de Nicaragua
-
 Actualmente me encuentro cursando la carrera de ingeniería en sistemas, desde hace 3 años he dedicado mi tiempo libre a aprender programación por cuenta propia, siempre me ha apasionado crear cosas y ponerme retos cada dia, esto me ah llevado a conocer entornos de desarrollo como **frontend** y **backend**.
 
 <h3 align="left">Conéctate conmigo:</h3>
