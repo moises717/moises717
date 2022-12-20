@@ -1,6 +1,6 @@
 ## Sobre mí :ledger:
 
-Actualmente me encuentro cursando la carrera de ingeniería en sistemas, desde hace 3 años he dedicado mi tiempo libre a aprender programación por cuenta propia, siempre me ha apasionado crear cosas y ponerme retos cada dia, esto me ah llevado a conocer entornos de desarrollo como **frontend** y **backend**.
+Aunque soy un desarrollador web sin experiencia profesional, mi pasión por la programación me ha llevado a adquirir un amplio conocimiento en esta área de **frontend** y **backend**. He dedicado mi tiempo libre a aprender y aplicar mis habilidades en proyectos personales, y estoy ansioso por poner mis conocimientos en práctica en un ambiente laboral. Estoy seguro de que mi entusiasmo y determinación para aprender y crecer en el campo del desarrollo web serán un valioso añadido a cualquier equipo.
 
 ## Mi historiá :memo:
 
