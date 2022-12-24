@@ -1,9 +1,8 @@
 ## Sobre mí :ledger:
-
-Aunque soy un desarrollador web sin experiencia profesional, mi pasión por la programación me ha llevado a adquirir un amplio conocimiento en esta área de **frontend** y **backend**. He dedicado mi tiempo libre a aprender y aplicar mis habilidades en proyectos personales, y estoy ansioso por poner mis conocimientos en práctica en un ambiente laboral. Estoy seguro de que mi entusiasmo y determinación para aprender y crecer en el campo del desarrollo web serán un valioso añadido a cualquier equipo.
+Soy un desarrollador web sin experiencia profesional, pero mi pasión y dedicación hacia la programación me han permitido adquirir conocimientos en **frontend** y **backend**. Actualmente estoy cursando mi tercer año de universidad y he aplicado mis habilidades en proyectos personales durante mi tiempo libre. Estoy ansioso por poner mis conocimientos en práctica en un ambiente laboral y estoy seguro de que mi entusiasmo y determinación para aprender y crecer en el campo del desarrollo web serán un valioso añadido para cualquier equipo.
 
 ## Mi historiá :memo:
 
-Hace 3 años hice una búsqueda en internet, ¿Como se hace una pagina web? y uno de los resultados fue html, css y javascript.
+Hace 3 años, hice una búsqueda en internet preguntando "¿Cómo se hace una página web?" Una de las respuestas fue **HTML**, **CSS** y **JavaScript**.
 
-**JavaScript** es un lenguaje de programación al que le he dedicado tiempo, desde como funciona en el navegador, hasta como se ejecuta en el servidor, fue una pregunta sencilla pero que desencadeno mi curiosidad y me insto a aprender nuevas tecnologías.
+Me dediqué a profundizar en **JavaScript**, explorando cómo funciona en el navegador y cómo se ejecuta en el servidor. Esta sencilla pregunta despertó mi curiosidad y me impulsó a aprender nuevas tecnologías. Desde entonces, he dedicado mi tiempo a adquirir una sólida base en JavaScript y otras tecnologías web.
