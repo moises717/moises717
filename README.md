@@ -1,5 +1,5 @@
 ## Sobre mí :ledger:
-Soy un desarrollador web, mi pasión y dedicación hacia la programación me han permitido adquirir conocimientos en **frontend** y **backend**. Actualmente estoy cursando mi tercer año de universidad y he aplicado mis habilidades en proyectos personales durante mi tiempo libre. Estoy ansioso por poner mis conocimientos en práctica en un ambiente laboral y estoy seguro de que mi entusiasmo y determinación para aprender y crecer en el campo del desarrollo web serán un valioso añadido para cualquier equipo.
+Soy desarrollador web, mi pasión y dedicación hacia la programación me han permitido adquirir conocimientos en **frontend** y **backend**. Actualmente estoy cursando mi tercer año de universidad y he aplicado mis habilidades en proyectos personales durante mi tiempo libre. Estoy ansioso por poner mis conocimientos en práctica en un ambiente laboral y estoy seguro de que mi entusiasmo y determinación para aprender y crecer en el campo del desarrollo web serán un valioso añadido para cualquier equipo.
 
 ## Mi historiá :memo:
 
